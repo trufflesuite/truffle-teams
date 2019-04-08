@@ -2,7 +2,7 @@
 
 ## Overview
 
-Truffle Teams<sup>**beta**</sup> is a new offering from TruffleSuite.
+Truffle Teams<sup>**beta**</sup> is a new service from TruffleSuite!
 
 Our initial offering is a (free) __zero config__ continuous integration service designed explicitly for your truffle projects!  We've added some natural chocolate polish too, of course :chocolate_bar:
 
@@ -10,7 +10,9 @@ Seamlessly attach your truffle project to Truffle Teams<sup>**beta**</sup> using
 
 ## Getting Started
 
-
+1. Visit [Truffle Teams](https://my.truffleteams.com/)<sup>**beta**</sup> to sign up with Github.  You will automatically redirect back to your [dashboard](https://my.truffleteams.com).
+2. On your [dashboard](https://my.truffleteams.com), you will be prompted to "Add a repository".  This will initiate the installation of Truffle Teams<sup>**beta**</sup> on one or more Github Repositories.
+3. Commit to any truffle project you've added to Truffle Teams<sup>**beta**</sup>!  We'll automatically run all of your truffle tests!
 
 ## Support
 
